@@ -4,7 +4,7 @@
 
 **Subject**: Opportunity to Work on an Innovative Multi-Sector Service Marketplace App
 
-Hello [Name],
+Hello Professionals,
 
 I am reaching out to invite you to join an exciting opportunity to work on developing a **multi-sector service marketplace app**. The app aims to connect service providers (nurses, legal professionals, home services, etc.) with clients in a seamless, user-friendly environment. This project has a huge potential to grow and expand across multiple sectors, revolutionizing how services are booked and delivered.
 
